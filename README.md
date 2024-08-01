@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm Serhii Osmolovskyi, a dedicated full-stack dev
 ## Contact Information
 
 - **Phone:** +1 431-334-3180
-- **Email:** <a href="mailto:Osmolovsky.S@gmail.com">Osmolovsky.S@gmail.com</a>
+- **Email:** Osmolovsky.S@gmail.com
 - **Location:** Calgary, AB, Canada
-- **LinkedIn:** <a href="https://www.linkedin.com/in/serhii-osmolovskyi/" target="_blank">Serhii Osmolovskyi</a>
-- **Behance:** <a href="https://www.behance.net/serhiiosmolovskyi/" target="_blank">Serhii Osmolovskyi</a>
-- **GitHub:** <a href="https://github.com/SerhiiOsmolovskyi" target="_blank">SerhiiOsmolovskyi</a>
+- **LinkedIn:** [Serhii Osmolovskyi](https://www.linkedin.com/in/serhii-osmolovskyi/)
+- **Behance:** [Serhii Osmolovskyi](https://www.behance.net/serhiiosmolovskyi/)
+- **GitHub:** [SerhiiOsmolovskyi](https://github.com/SerhiiOsmolovskyi)
 
 ## Summary
 
@@ -102,10 +102,4 @@ _Sep 2007 – Jul 2013_
 
 Feel free to connect with me on LinkedIn or reach out via email for any collaborations, opportunities, or questions!
 
-
-**Master’s Degree, Management of Import-Export Activities**  
-*National Metallurgical Academy of Ukraine*  
-_Sep 2007 – Jul 2013_
-
-Feel free to connect with me on LinkedIn or reach out via email for any collaborations, opportunities, or questions!
 
