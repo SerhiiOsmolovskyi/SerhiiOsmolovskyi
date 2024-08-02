@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img align="left" height="200" src="https://dribbble.com/shots/24617893-Serhii-Osmolovskyi" alt="Serhii Osmlovskyi Avatar" />
+  <img align="left" height="200" src="https://drive.google.com/uc?export=view&id=19EzQQ3Yy7GsDG9sebDGYwvQkmUhJXVXx" alt="Serhii Osmolovskyi Avatar" />
 </div>
 
 <div align="left">
