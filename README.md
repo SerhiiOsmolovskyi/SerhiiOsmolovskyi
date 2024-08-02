@@ -10,7 +10,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
