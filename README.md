@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm Serhii Osmolovskyi, a dedicated full-stack developer with a rich background in sales and a passion for coding. My journey from a decade-long career in sales to pursuing a Master of Science in Computer Science has equipped me with a diverse set of skills that I am excited to apply in the field of web development.</p>
+<p align="left">Welcome to my GitHub profile! I'm Serhii Osmolovskyi, a full-stack developer and a current student pursuing a Master of Science in Computer Science. I'm passionate about coding and excited to apply my skills in web development. My journey has equipped me with a diverse set of skills that I am eager to utilize in this field.
+</p>
 
 ###
 
