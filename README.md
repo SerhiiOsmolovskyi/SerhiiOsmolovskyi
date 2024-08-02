@@ -71,9 +71,9 @@
 **Role:** Implemented the categories section and served as Scrum Master, coordinating team activities and ensuring timely delivery.
 
 ### [Camper Rental Application](https://serhiiosmolovskyi.github.io/goit-test-task/)
-**Tech:** React.js, React Router, MockAPI.io, HTML, CSS, JavaScript, Figma 
+**Tech:** React.js, React Router, MockAPI.io, HTML, CSS, JavaScript, Figma   
 **Description:** A web application for camper rental services with features for viewing, favouriting, and booking campers.  
-**Role:** Developed the home page, catalog page, and favorites page. Implemented features like modal windows, pagination, and persistent user actions.
+**Role:** Developed the home page, catalogue page, and favourites page. Implemented features like modal windows, pagination, and persistent user actions.
 
 ### [Your Energy](https://sem-aa.github.io/your-energy-project8/index.html?filter=Muscles)
 **Tech:** React, HTML, CSS, JavaScript, API Integration, Figma  
