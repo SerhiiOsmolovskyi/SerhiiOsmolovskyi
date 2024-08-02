@@ -61,15 +61,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/serhii-osmolovskyi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="https://www.behance.net/serhiiosmolovskyi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" /></a>
-  <a href="mailto:Osmolovsky.S@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
-</div>
-
-###
 
 ## Project Experience
 
@@ -88,4 +80,13 @@
 **Description:** Built a responsive one-page site for English learning, including a dynamic Header with navigation and social media links.  
 **Role:** Developed the Header with navigation and social media links, ensuring responsive design and mobile compatibility. Implemented anchor links and SVG icons.
 
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/serhii-osmolovskyi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.behance.net/serhiiosmolovskyi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" /></a>
+  <a href="mailto:Osmolovsky.S@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
+</div>
+
+###
 
